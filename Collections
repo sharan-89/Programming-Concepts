@@ -1,0 +1,58 @@
+-->  Basic Level Questions (Practical)
+
+
+Write a program to create an ArrayList, add elements, and print them.
+Write a program to find the maximum and minimum values in a List.
+Write a program to check if an element exists in a List.
+Write a program to remove an element from a List by index and by value.
+Write a program to sort an ArrayList in ascending and descending order.
+Write a program to find the frequency of an element in a List.
+Write a program to iterate over a List using a for-each loop.
+Write a program to reverse the elements of a List.
+Write a program to clear all elements in a List.
+Write a program to find the sum of elements in a List of integers.
+
+
+-->  Intermediate Level Questions (Practical)
+
+
+Write a program to merge two ArrayLists without duplicates.
+Write a program to convert an ArrayList to an array.
+Write a program to create a HashSet, add elements, and remove duplicates from an array of integers.
+Write a program to check if a Set contains a particular element.
+Write a program to iterate over a Set using an iterator.
+Write a program to convert a HashSet to an ArrayList.
+Write a program to find the intersection of two Sets.
+Write a program to find the union of two Sets.
+Write a program to create a TreeSet and display elements in sorted order.
+Write a program to remove all elements from a Set using the clear() method.
+
+
+-->  Advanced Level Questions (Practical)
+
+
+Write a program to implement a PriorityQueue and sort elements in natural order.
+Write a program to find the second largest element in a PriorityQueue.
+Write a program to implement a custom Comparator to sort elements in a List.
+Write a program to implement a Map, add key-value pairs, and retrieve a value by key.
+Write a program to find the key corresponding to the maximum value in a Map.
+Write a program to iterate over a Map and print all key-value pairs.
+Write a program to create a HashMap, remove elements by key, and check if a key exists.
+Write a program to implement a LRU (Least Recently Used) cache using LinkedHashMap.
+Write a program to remove all elements from a Map that have a specific value.
+Write a program to create and use a Deque to implement a queue or stack.
+
+
+-->  Expert Level Questions (Practical)
+
+
+Write a program to implement a hash table from scratch using Map.
+Write a program to implement a stack using a LinkedList.
+Write a program to implement a queue using a LinkedList.
+Write a program to find the longest common subsequence using List and Map (dynamic programming).
+Write a program to implement merge sort on an ArrayList.
+Write a program to implement quick sort on a List.
+Write a program to find all duplicates in a List and return them.
+Write a program to implement a custom collection (e.g., a priority queue with custom priority logic).
+Write a program to find the highest frequency element in a List using Map.
+Write a program to implement producer-consumer problem using Queue and synchronization.
