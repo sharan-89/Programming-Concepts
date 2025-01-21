@@ -1,0 +1,58 @@
+-->  Basic Level Questions
+
+
+How do you declare and initialize an array in Java?
+Write a program to find the length of an array.
+How do you access and modify an element of an array in Java?
+Write a program to print all elements of an array using a for loop.
+What is the default value of elements in an integer array?
+How do you initialize a multidimensional array in Java (e.g., 2D array)?
+How can you check if an array is empty in Java?
+Write a program to reverse the elements of an array.
+How do you find the largest and smallest element in an array?
+Write a program to find the sum and average of elements in an array.
+
+
+-->  Intermediate Level Questions
+
+
+Write a program to search for a specific element in an array.
+How do you sort an array in ascending order?
+Write a program to remove duplicates from an array.
+How do you merge two arrays in Java?
+Write a program to find the second largest element in an array.
+How can you check if an array is sorted in ascending or descending order?
+Write a program to rotate an array by n positions.
+How do you copy an array to another array in Java?
+Write a program to find the common elements between two arrays.
+How do you find the frequency of each element in an array?
+
+
+-->  Advanced Level Questions
+
+
+Write a program to implement a binary search on a sorted array.
+How do you find the intersection of two arrays (elements common to both)?
+Write a program to find the union of two arrays (all unique elements from both).
+How can you find the largest subarray sum (Kadane's algorithm)?
+Write a program to find all pairs in an array whose sum equals a specific target.
+How do you implement a 2D matrix multiplication in Java?
+Write a program to find the kth largest element in an array.
+How do you implement the merge sort algorithm on an array?
+Write a program to implement the quick sort algorithm on an array.
+How do you implement a heap sort algorithm on an array?
+
+
+-->  Expert Level Questions
+
+
+Write a program to implement counting sort on an array.
+How do you find the longest increasing subsequence in an array?
+Write a program to rotate a 2D array by 90 degrees (clockwise).
+How do you implement an array-based stack in Java?
+Write a program to find the maximum product of two integers in an array.
+How do you find the first missing positive integer in an unsorted array (using constant space)?
+Write a program to find the median of two sorted arrays.
+How do you find the maximum sum subarray of size k (sliding window problem)?
+Write a program to check if an array is a subset of another array.
+How do you implement dynamic programming to solve problems like knapsack or longest common subsequence using arrays?
