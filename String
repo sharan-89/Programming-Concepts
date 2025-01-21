@@ -1,0 +1,56 @@
+-->  Basic Level Questions
+
+
+What is a String in Java, and how is it different from other data types?
+How do you declare and initialize a String in Java?
+What is the difference between String str = "Hello"; and String str = new String("Hello");?
+Write a program to find the length of a string.
+How do you compare two strings in Java for equality?
+What is the difference between equals() and == in Java strings?
+Write a program to check if a string starts with a specific prefix or ends with a specific suffix.
+How do you extract a substring from a string?
+Write a program to convert a string to uppercase and lowercase.
+How can you check if a string is empty?
+
+-->  Intermediate Level Questions
+
+
+Write a program to reverse a string without using built-in methods.
+How do you replace all occurrences of a character in a string with another character?
+Write a program to count the number of vowels and consonants in a string.
+How do you split a string based on a specific delimiter?
+Write a program to find the first non-repeating character in a string.
+What is the difference between String, StringBuilder, and StringBuffer?
+How do you concatenate multiple strings in Java?
+Write a program to check if a given string is a palindrome.
+How do you find the index of a specific character or substring in a string?
+Write a program to sort the characters in a string alphabetically.
+
+-->  Advanced Level Questions
+
+
+How do you find duplicate characters in a string?
+Write a program to check if two strings are anagrams of each other.
+How can you remove all white spaces from a string?
+Write a program to find the longest substring without repeating characters.
+How do you count the occurrences of each word in a string?
+What is the purpose of the intern() method in Java strings?
+How can you use the String.format() method? Provide an example.
+Write a program to reverse the order of words in a string.
+How do you handle special characters in strings using regex?
+Write a program to validate an email address using regex.
+
+
+-->  Expert Level Questions
+
+
+What is the difference between immutable and mutable strings in Java?
+Write a program to generate all permutations of a string.
+How do you handle multithreading issues with strings in Java?
+Explain how the split() method works with regex patterns.
+Write a program to compress a string using the counts of repeated characters (e.g., "aaabb" → "a3b2").
+How do you calculate the similarity between two strings (e.g., Levenshtein Distance)?
+What is the purpose of the StringBuilder's append() and insert() methods? Provide an example.
+Write a program to convert a string containing a date (e.g., "2025-01-21") into a LocalDate object.
+How can you find all substrings of a given string?
+Write a program to find the longest common prefix among an array of strings.
