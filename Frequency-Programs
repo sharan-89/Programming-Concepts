@@ -1,0 +1,61 @@
+Frequency Program Questions (1 Day Focus)
+
+1. Frequency of Elements in an Array (Numbers)
+Write a program to find the frequency of each element in an array of integers using a HashMap.
+
+2. Frequency of Words in a String
+Write a program to count the frequency of each word in a string using a HashMap or HashMap<String, Integer>.
+
+3. Frequency of Characters in a String
+Write a program to find the frequency of each character in a string using a HashMap<Character, Integer>.
+
+4. Find Most Frequent Element in an Array
+Write a program to find the most frequent element in an array of integers.
+
+5. Find the Kth Most Frequent Element in an Array
+Write a program to find the Kth most frequent element in an array.
+
+6. Frequency of Each Element in a List (Collections)
+Write a program to find the frequency of each element in a List using Collections.frequency() or HashMap.
+
+7. Remove Elements with Less Than K Frequency
+Write a program to remove elements from an array (or list) that appear less than K times using HashMap.
+
+8. Find the First Non-Repeated Character in a String
+Write a program to find the first non-repeated character in a string by using a frequency map.
+
+9. Frequency of Elements in a Set (Collections)
+Write a program to find the frequency of elements in a Set by converting it to a List and using HashMap.
+
+10. Find Duplicate Elements in an Array
+Write a program to find all duplicate elements in an array using a HashMap or HashSet.
+
+11. Sort Elements by Frequency in a List
+Write a program to sort elements in a list based on their frequency (highest frequency first).
+
+12. Find Missing Number in an Array (Frequency Check)
+Write a program to find the missing number in an array where the elements are from 1 to n using frequency counting.
+
+13. Frequency of Numbers in a Range (Range Query)
+Write a program to find the frequency of numbers in a given range in an array or list using frequency counting.
+
+14. Count the Occurrences of Each Digit in a Number
+Write a program to count the frequency of each digit in a given number.
+
+15. Find Elements with Odd Frequency in an Array
+Write a program to find elements in an array that have an odd frequency of occurrences.
+
+16. Top K Frequent Elements (Array / List)
+Write a program to find the K most frequent elements in an array or list (using a priority queue or HashMap).
+
+17. Character Frequency in a String (Sorted Order)
+Write a program to print the frequency of characters in a string in sorted order (from most frequent to least frequent).
+
+18. Frequency Count of Substrings (String)
+Write a program to count the frequency of each substring of a given length k in a string.
+
+19. Frequency of Elements in a Matrix (2D Array)
+Write a program to find the frequency of each element in a 2D matrix (array).
+
+20. Check if Two Strings Have the Same Frequency of Characters
+Write a program to check if two strings are anagrams (i.e., have the same frequency of characters).
